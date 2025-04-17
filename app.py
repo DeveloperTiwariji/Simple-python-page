@@ -26,7 +26,7 @@ HTML_TEMPLATE = """
     </style>
 </head>
 <body>
-    <h1>🙏 Radhe Radhe 🙏</h1>
+    <h🙏 Radhe Radhe 🙏</h1>
 </body>
 </html>
 """
