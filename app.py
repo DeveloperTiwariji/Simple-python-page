@@ -1,6 +1,6 @@
 from flask import Flask, render_template_string
 
-app = Flask(__name__)
+app = Flak(__name__)
 
 HTML_TEMPLATE = """
 <!DOCTYPE html>
@@ -26,7 +26,7 @@ HTML_TEMPLATE = """
     </style>
 </head>
 <body>
-    <h🙏 Radhe Radhe 🙏</h1>
+    <h1>🙏 Radhe Radhe 🙏</h1>
 </body>
 </html>
 """
